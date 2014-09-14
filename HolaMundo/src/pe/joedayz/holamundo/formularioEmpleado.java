@@ -18,6 +18,7 @@ public class formularioEmpleado extends Activity {
 		setContentView(R.layout.formulario);
 
 		
+		
 		formularioHelper = new FormularioHelper(this);
 		
 		Button boton = (Button) findViewById(R.id.botonFormulario);	
